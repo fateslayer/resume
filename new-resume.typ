@@ -46,30 +46,20 @@
 == Work Experience
 
 #work(
-  title: "Subatomic Shepherd and Caffeine Connoisseur",
-  location: "Atomville, CA",
-  company: "Microscopic Circus, Schrodinger's University",
-  dates: dates("May 2024", "Present"),
+  title: "Software Engineer",
+  location: "London, UK",
+  company: "Adsum Works",
+  dates: dates("Jul 2022", "Present"),
 )
 - Played God with tiny molecules, making them dance to uncover the secrets of the universe
 - Convinced high-performance computers to work overtime without unions, reducing simulation time by 50%
 - Wowed a room full of nerds with pretty pictures of invisible things and imaginary findings
 
 #work(
-  title: "AI Wrangler and Code Ninja",
-  location: "Silicon Mirage, CA",
-  company: "Organic Stupidity Startup",
-  dates: dates("Dec 2023", "Mar 2024"),
-)
-- Taught robots to predict when (and how much!) humans will empty their wallets at the doctor's office
-- Developed HIPAA-compliant digital signatures, because doctors' handwriting wasn't illegible enough already
-- Turned spaghetti code into a gourmet dish, making other interns drool with envy
-
-#work(
-  title: "Digital Playground Architect",
-  location: "The Cloud",
-  company: "Pixels & Profit Interactive",
-  dates: dates("Jun 2020", "May 2023"),
+  title: "Frontend Developer",
+  location: "London, UK",
+  company: "SkootEco",
+  dates: dates("Dec 2021", "Jun 2022"),
 )
 - Scaled user base from 10 to 2000+, accidentally becoming a small wealthy nation in the process
 - Crafted Bash scripts so clever they occasionally made other engineers weep with joy
@@ -77,10 +67,28 @@
 - Built a documentation site that actually got read, breaking the ancient RTFM curse
 
 #work(
-  title: "Code Conjurer Intern",
-  location: "Silicon Suburb, CA",
-  company: "Bits & Bytes Consulting",
-  dates: dates("Jun 2022", "Aug 2022"),
+  title: "Fullstack Developer",
+  location: "Bhopal, India",
+  company: "AutomateMyApp",
+  dates: dates("Jan 2021", "Sep 2021"),
+)
+- Developed a cross-platform mobile app that turned every user into a potential paparazzi
+- Led a security overhaul, heroically saving the company from the menace of "password123"
+
+#work(
+  title: "Fullstack Developer",
+  location: "Bhopal, India",
+  company: "Clearalist",
+  dates: dates("Jan 2020", "Dec 2020"),
+)
+- Developed a cross-platform mobile app that turned every user into a potential paparazzi
+- Led a security overhaul, heroically saving the company from the menace of "password123"
+
+#work(
+  title: "Web Developer",
+  location: "Bhopal, India",
+  company: "Pabbly",
+  dates: dates("Jan 2019", "Dec 2019"),
 )
 - Developed a cross-platform mobile app that turned every user into a potential paparazzi
 - Led a security overhaul, heroically saving the company from the menace of "password123"
