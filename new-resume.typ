@@ -51,9 +51,10 @@
   company: "Adsum Works",
   dates: dates("Jul 2022", "Present"),
 )
-- Played God with tiny molecules, making them dance to uncover the secrets of the universe
-- Convinced high-performance computers to work overtime without unions, reducing simulation time by 50%
-- Wowed a room full of nerds with pretty pictures of invisible things and imaginary findings
+- Reengineered the front-end architecture from legacy HTML/JavaScript to a modern React and Next.js stack, significantly improving code maintainability and scalability
+- Developed a custom KYC flow integrating Veriff's API, enhancing user verification and experience. Also delivered the TaxAI chatbot interface within a week, enabling AI-driven tax query interactions
+- Built a comprehensive UI component library with over 100 components based on Atomic Design Principles, collaborating closely with the UI/UX designer to ensure design consistency and efficiency
+- Consistently recognized by the team and CEO for delivering projects ahead of schedule and demonstrating exceptional work ethic in a fast-paced startup environment
 
 #work(
   title: "Frontend Developer",
@@ -61,10 +62,10 @@
   company: "SkootEco",
   dates: dates("Dec 2021", "Jun 2022"),
 )
-- Scaled user base from 10 to 2000+, accidentally becoming a small wealthy nation in the process
-- Crafted Bash scripts so clever they occasionally made other engineers weep with joy
-- Automated support responses, reducing human interaction to a level that would make introverts proud
-- Built a documentation site that actually got read, breaking the ancient RTFM curse
+- Developed a centralized UI component library using Vue.js and Nuxt.js, creating over 50 reusable components that streamlined development across multiple projects and ensured consistent design
+- Implemented Storybook to facilitate seamless collaboration between developers and designers, enhancing component development workflow and reducing design discrepancies
+- Built and optimized micro-frontend web pages, including critical user flows like login, signup, dashboard, and onboarding, ensuring high performance, responsiveness, and accessibility across devices
+- Collaborated closely with cross-functional teams, including product managers and lead developers, to deliver features ahead of schedule while maintaining high code quality and adhering to best practices
 
 #work(
   title: "Fullstack Developer",
@@ -72,8 +73,10 @@
   company: "AutomateMyApp",
   dates: dates("Jan 2021", "Sep 2021"),
 )
-- Developed a cross-platform mobile app that turned every user into a potential paparazzi
-- Led a security overhaul, heroically saving the company from the menace of "password123"
+- Designed and launched a Workflow Automation service similar to Zapier, enabling users to connect apps like Google Sheets, Calendly, and Discord through a custom no-code workflow builder
+- Developed the full-stack application using Vue.js, Node.js, and Nest.js, focusing on scalability and security, deploying the service on AWS, and managing data with PostgreSQL
+- Implemented JWT and OAuth-based authentication, allowing users to access the service securely using their email or social accounts
+- Integrated a subscription-based payment model with PayPal, facilitating user monetization and ensuring a smooth transaction experience
 
 #work(
   title: "Fullstack Developer",
@@ -81,8 +84,10 @@
   company: "Clearalist",
   dates: dates("Jan 2020", "Dec 2020"),
 )
-- Developed a cross-platform mobile app that turned every user into a potential paparazzi
-- Led a security overhaul, heroically saving the company from the menace of "password123"
+- Created and launched an Email List Cleaning and Verification service, enabling users to upload and verify email lists, serving thousands of users and verifying over 5 million emails
+- Developed the platform's front-end and back-end using Vue.js, Node.js, and Express.js, with MongoDB for data management and AWS for cloud deployment, ensuring a reliable and scalable service
+- Automated end-to-end testing for all API routes, significantly reducing the risk of bugs and accelerating development with confidence
+- Leveraged AWS SQS to handle multiple list cleaning jobs, processing one CSV file serially to ensure accuracy and efficiency, even under high load
 
 #work(
   title: "Web Developer",
@@ -90,8 +95,10 @@
   company: "Pabbly",
   dates: dates("Jan 2019", "Dec 2019"),
 )
-- Developed a cross-platform mobile app that turned every user into a potential paparazzi
-- Led a security overhaul, heroically saving the company from the menace of "password123"
+- Developed the #link("https://youtube.com/watch?v=kkopsVYOO7Y")[Email Automation] system end-to-end
+- Transformed the MySQL data of 1500 users of the old automation system with no downtime
+- Introduced Composer for PHP dependency management, replacing outdated manual installations, which streamlined updates and maintained a consistent codebase
+- Optimized API calls and MySQL queries, thus reducing API call time from 12 seconds to 1 second and cutting server load by 50%
 
 // === Projects ===
 // == Projects
