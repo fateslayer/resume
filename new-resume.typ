@@ -7,7 +7,7 @@
   github: "github.com/fateslayer",
   linkedin: "linkedin.com/in/ajaz-rehman",
   phone: "+91 7000845091",
-  personal-site: "fateslayer.github.io/",
+  personal-site: "fateslayer.github.io",
   personal-site-label: "Website",
 )
 
