@@ -34,8 +34,13 @@
 
 // === Skills ===
 == Skills
-- *Programming Languages*: JavaScript, Python, C/C++, HTML/CSS, Java, Bash, R, Flutter, Dart
-- *Technologies*: React, Astro, Svelte, Tailwind CSS, Git, UNIX, Docker, Caddy, NGINX, Google Cloud Platform
+- *Programming Languages*: JavaScript, TypeScript, Python
+- *Frontend*: React, NextJS, Tailwind CSS, Material UI, Storybook
+- *Backend*: NodeJS, ExpressJS, NestJS, Flask, Airflow
+- *Databases*: MySQL, PostgreSQL, MongoDB
+- *Cloud*: AWS (EC2, S3, SQS, SES, Lambda, CloudFront, CodeDeploy, CloudWatch)
+- *AI Tools*: Claude, Codex, Cursor
+- *Others*: Git, Linux, Docker, Nginx, Turborepo
 
 // === Work Experience ===
 == Work Experience
