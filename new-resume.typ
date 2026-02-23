@@ -1,4 +1,4 @@
-#import "@preview/basic-resume:0.2.9": *
+#import "templates/resume-with-labels.typ": *
 
 // === Configuration ===
 #let config = (
@@ -6,7 +6,9 @@
   email: "ajazurrehman4@gmail.com",
   github: "github.com/fateslayer",
   linkedin: "linkedin.com/in/ajaz-rehman",
-  phone: "+91 7470611970",
+  phone: "+91 7000845091",
+  personal-site: "ajaz-rehman.github.io",
+  personal-site-label: "Website",
 )
 
 #let dates(start, end) = dates-helper(start-date: start, end-date: end)
@@ -18,6 +20,11 @@
   github: config.github,
   linkedin: config.linkedin,
   phone: config.phone,
+  email-label: "Email",
+  github-label: "GitHub",
+  linkedin-label: "LinkedIn",
+  personal-site: config.personal-site,
+  personal-site-label: config.personal-site-label,
   accent-color: "#26428b",
   font: "New Computer Modern",
   paper: "us-letter",
