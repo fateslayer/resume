@@ -127,13 +127,13 @@
 == Education
 
 #edu(
-  institution: "Harvey Mudd College",
-  location: "Claremont, CA",
-  dates: dates("Aug 2023", "May 2027"),
-  degree: "Bachelor's of Science, Computer Science and Mathematics",
+  institution: "IES College of Technology",
+  location: "Bhopal, India",
+  dates: dates("Aug 2013", "May 2017"),
+  degree: "Bachelor of Computer Science and Engineering",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
-  // consistent: true
+  consistent: true
 )
-- Cumulative GPA: 4.0\/4.0 | Dean's List, Harvey S. Mudd Merit Scholarship, National Merit Scholarship
-- Relevant Coursework: Data Structures, Program Development, Microprocessors, Abstract Algebra I: Groups and Rings, Linear Algebra, Discrete Mathematics, Multivariable & Single Variable Calculus, Principles and Practice of Comp Sci
+// - Cumulative GPA: 4.0\/4.0 | Dean's List, Harvey S. Mudd Merit Scholarship, National Merit Scholarship
+// - Relevant Coursework: Data Structures, Program Development, Microprocessors, Abstract Algebra I: Groups and Rings, Linear Algebra, Discrete Mathematics, Multivariable & Single Variable Calculus, Principles and Practice of Comp Sci
