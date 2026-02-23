@@ -94,18 +94,18 @@
 - Led a security overhaul, heroically saving the company from the menace of "password123"
 
 // === Projects ===
-== Projects
-
-#project(
-  name: "Hyperschedule",
-  role: "Maintainer",
-  dates: dates("Nov 2023", "Present"),
-  url: "hyperschedule.io",
-)
-- Maintain open-source scheduler used by 7000+ users at the Claremont Consortium with TypeScript, React and MongoDB
-  - Manage PR reviews, bug fixes, and coordinate with college for releasing scheduling data and over \$1500 of yearly funding
-- Ensure 99.99% uptime during peak loads of 1M daily requests during course registration through redundant servers
-
+// == Projects
+//
+// #project(
+//   name: "Hyperschedule",
+//   role: "Maintainer",
+//   dates: dates("Nov 2023", "Present"),
+//   url: "hyperschedule.io",
+// )
+// - Maintain open-source scheduler used by 7000+ users at the Claremont Consortium with TypeScript, React and MongoDB
+//   - Manage PR reviews, bug fixes, and coordinate with college for releasing scheduling data and over \$1500 of yearly funding
+// - Ensure 99.99% uptime during peak loads of 1M daily requests during course registration through redundant servers
+//
 // === Extracurricular Activities ===
 // == Extracurricular Activities
 //
